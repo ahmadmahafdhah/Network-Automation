@@ -7,10 +7,11 @@ ________________________________________________________________________________
 
 for example, it should run as follow: ./script.py <router IP address>
 using regex library, it gives the following output:
-Interface Name     MAC Address         IP Address     Status
-----------------   -----------------   ------------   ------
-GigabitEthernet1   08:00:27:48:BB:1F   10.0.5.51      UP
-GigabitEthernet2   08:00:27:5D:76:7E   192.168.1.70   UP
-GigabitEthernet3   08:00:27:5A:52:10      −           DOWN
-Loopback0          :::::               1.1.1.1        UP
-Loopback1          :::::                  −           DOWN
+  
+  Interface Name     MAC Address         IP Address     Status
+  ----------------   -----------------   ------------   ------
+  GigabitEthernet1   08:00:27:48:BB:1F   10.0.5.51      UP
+  GigabitEthernet2   08:00:27:5D:76:7E   192.168.1.70   UP
+  GigabitEthernet3   08:00:27:5A:52:10      −           DOWN
+  Loopback0          :::::               1.1.1.1        UP
+  Loopback1          :::::                  −           DOWN
