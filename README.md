@@ -1,4 +1,4 @@
-# Network-Automation
+# Simple-Network-Automation
 
 This is a Python script that acts as a minimalist network automation program.
 The script sends the required command to a Cisco router, and receives and displays its output in a convenient, well-formatted manner.
