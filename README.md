@@ -5,7 +5,7 @@ The script sends the required command to a Cisco router, and receives and displa
 The script is self executable, an it takes one command line argument.
 for example, it should run as follow: ./script.py <router IP address>
 
-Using Regex library, it gives the following output:
+using regex library, it gives the following output:
 
 Interface Name   MAC Address       IP Address   Status
 ---------------- ----------------- ------------ ------
